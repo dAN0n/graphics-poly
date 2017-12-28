@@ -1,0 +1,5 @@
+shadefixenv/*
+__pycache__/*
+out/*
+*.jpg
+!test.jpg

@@ -1,0 +1,10 @@
+cycler==0.10.0
+matplotlib==2.0.2
+numpy==1.12.1
+opencv-python==3.3.0.10
+pyparsing==2.2.0
+PyQt5==5.9.2
+python-dateutil==2.6.1
+pytz==2017.2
+sip==4.19.6
+six==1.10.0
